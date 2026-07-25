@@ -16,7 +16,7 @@ const cardStyle = {
 
 <div style ={{display : 'flex', flexwrap : 'wrap', gap : '20px', justifyContent : 'center'}}>
   <div style={cardStyle}>
-    <img src="https://www.w3schools.com/w3images/lights.jpg " alt="Placeholder" />
+    <img src="https://www.w3schools.com/w3images/lights.jpg" alt="Placeholder" />
     <h2>Card Title 1</h2>
     <p>This is a description for card 1.</p>
   </div>
